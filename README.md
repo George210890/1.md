@@ -14,13 +14,13 @@
 
 <details>
 
-![Снимок01](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/ab92f0f1-d717-4269-98a8-b5675f59f908)
+![Снимок01](https://github.com/George210890/1.md/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA01.PNG)
 
-![Снимок02](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/fefda527-7b14-4d68-9cae-cddbdb8ff698)
+![Снимок02](https://github.com/George210890/1.md/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA02.PNG)
 
-![Снимок03](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/e74903aa-bde0-48af-90ab-04ecc1e0bc5a)
+![Снимок03](https://github.com/George210890/1.md/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA03.PNG)
 
-Файл PKT https://github.com/Ivashka80/Disaster-recovery_Keepalived/blob/main/hsrp_advanced_DZ1.pkt
+Файл PKT https://github.com/George210890/1.md/blob/main/hsrp_advanced_DZ1.pkt
 
 </details>
 
