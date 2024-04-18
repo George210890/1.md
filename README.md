@@ -46,15 +46,14 @@ else
 fi
 ```
 
-Файл конфига https://github.com/Ivashka80/Disaster-recovery_Keepalived/blob/main/keepalived.conf
+Файл конфига https://github.com/George210890/1.md/blob/main/keepalived.conf
+![image](https://github.com/George210890/1.md/blob/main/Screenshot_1.png)
 
-![image](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/fbf9888d-5acc-4217-95af-2b33df123c20)
+![image](https://github.com/George210890/1.md/blob/main/Screenshot_2.png)
 
-![image](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/33d85673-d882-434f-9da8-49d8612cbf84)
+![image](https://github.com/George210890/1.md/blob/main/Screenshot_3.png)
 
-![image](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/cdcf9435-0a52-4e49-9686-51a9070ef5fe)
-
-![image](https://github.com/Ivashka80/Disaster-recovery_Keepalived/assets/121082757/bcfaa39d-3104-4576-b8bc-df45b850793d)
+![image](https://github.com/George210890/1.md/blob/main/Screenshot_4.png)
 
 </details>
 
